@@ -18,7 +18,6 @@ const user = {
   lastName: 'Tsz Kiu',
 };
 
-
 const element = (
   <div>
     <div>Hello, {formatName(user)}!</div>
